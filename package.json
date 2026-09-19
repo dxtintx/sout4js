@@ -56,12 +56,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dotinto/sout4js"
+    "url": "git+https://github.com/dxtintx/sout4js.git"
   },
   "author": "dxtintx",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/dotinto/sout4js/issues"
+    "url": "https://github.com/dxtintx/sout4js/issues"
   },
-  "homepage": "https://github.com/dotinto/sout4js#readme"
+  "homepage": "https://github.com/dxtintx/sout4js#readme"
 }
