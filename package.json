@@ -56,7 +56,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotinto/sout4js.git"
+    "url": "https://github.com/dotinto/sout4js.git"
   },
   "author": "dxtintx",
   "license": "Apache-2.0",
